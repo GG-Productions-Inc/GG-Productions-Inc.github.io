@@ -1,4 +1,4 @@
-## Apps/Games
+# Apps/Games
 <br>
 ### Math Questions
 <br>
