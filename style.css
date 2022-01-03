@@ -1,0 +1,18 @@
+.button1 {
+  color: white;
+  background: darkturquoise;
+  padding: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 0.4s;
+  margin-bottom: 20px;
+}
+
+.button1:hover {
+  color: white;
+  background: plum;
+  border-radius: 50px;
+  transition: all 0.4s;
+  box-shadow: 0 0 1px 5px rgba(221, 159, 222, 0.39), 0 0 1px 10px rgba(138, 59, 88, 0.1);
+}
+
