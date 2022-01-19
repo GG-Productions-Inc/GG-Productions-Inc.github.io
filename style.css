@@ -15,4 +15,17 @@
   transition: all 0.4s;
   box-shadow: 0 0 1px 5px rgba(221, 159, 222, 0.39), 0 0 1px 10px rgba(138, 59, 88, 0.1);
 }
+.parallax {
+  /* The image used */
+  background-image: url("img_parallax.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
