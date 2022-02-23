@@ -1,1 +1,8 @@
 ErrorDocument 404 /404.html
+
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REMOTE_ADDR} !^86\.24\.234\.141
+RewriteCond %{REQUEST_URI} !^/503/php [NC]
+RewriteRule .* /503.html [L,R]
