@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gg-productions-inc.github.io
+Token: 3f2919c9e5b9877055f908de9e3acfd79046e4f8cefd3f9e8bb6f9abfe0844f0
